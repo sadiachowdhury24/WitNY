@@ -1,0 +1,283 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">       
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+
+  </head>
+  <body>
+      <nav>
+    <div class="nav-wrapper  background-color : #0097a7 cyan darken-2">
+      <a href="#!" class="brand-logo"><i class="material-icons">invert_colors</i>Water Detectives</a>
+
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons"></i></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a class="btn hoverable  cyan lighten-1 modal-trigger" href="#modal1">KIT</a>
+        </li>
+
+          <li><a hre
+      
+        <li><a href="https://www.fh.org/catalog/water/?source=WZZZN2ZZZB&utm_source=google&utm_medium=cpc&utm_content=WZZZN2ZZZB&gclid=CjwKCAjwm4rqBRBUEiwAwaWjjJ6U3Za7bcI2T7f86sA2C8zTPFacb48CujO8o1B_ygQz2BJBZufGBBoCjGQQAvD_BwE" class= "btn hoverable  cyan lighten-1">Donate</a></li> 
+      </ul>
+
+      
+       <!-- Modal Trigger -->
+  
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content black-text">
+     
+      <p>Sign up today to receive a free water testing kit. 
+This testing kit can help you and your family stay safe. 
+
+<li> Email📧:______________________________________________________
+<li>First Name:_____________________________________________________
+<li>Last Name:______________________________________________________
+<li>Address 1:_______________________________________________________
+<li>Address 2:______________________________________________________
+
+</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Submit</a>
+    </div>
+    </div>
+        </div>
+
+    <div class="parallax-container">
+      <div class="parallax"><img src=
+      "http://getwallpapers.com/wallpaper/full/6/a/8/354048.jpg"></div>
+    </div>
+<div class= "row">
+<div class="col s6">  
+  <div id="wp" class="card teal lighten-2 hoverable">
+    <div class="card-image waves-effect waves-block waves-light">
+      
+    </div>
+    <div class="card-content">
+      <span class="card-title activator white-text text-darken-4 hoverable">Issues<i class="material-icons right">more_vert</i></span>
+      <p> The widespread problem of water pollution is jeopardizing our health and ecosystem. Water pollution was first discovered in the mid 20th century, and still is an arising problem modern day.
+</p>
+    </div>
+    <div class="card-reveal teal lighten-2">
+      <span class="card-title grey-text text-darken-4">Topics<i class="material-icons right">close</i></span>
+      <p></p>
+       <li><a class="waves-effect waves-light modal-trigger" href="#Waterpollution">What is water pollution?</a></li>
+    <li class="divider" tabindex="-1"></li>
+       
+
+   
+   <li><a class="waves-effect waves-light modal-trigger" href="#Causes">What are the causes of water pollution?</a>                   </li>
+   <li class="divider" tabindex="-1"></li>
+  
+
+   <li><a class="waves-effect waves-light modal-trigger" href="#Categoriesw">Categories of water pollution</a></li>
+    <li class="divider" tabindex="-1"></li>
+
+   <li><a class="waves-effect waves-light modal-trigger" href="#Types">The Most Common Types of Water Contamination</a></li>
+    <li class="divider" tabindex="-1"></li>
+    </div>
+  </div>
+  </div>
+    <!-- <div class="row">
+    <div class="col s6">
+      <div class="card teal lighten-2">
+        <div class="card-content white-text">
+          <span class id ="info">Issue</span>
+          <p> The widespread problem of water pollution is jeopardizing our health and ecosystem. Water pollution was first discovered in the mid 20th century, and still is an arising problem modern day.
+          <span class= "card-title"> What is water pollution?</span>
+           <p id= "fam"> Water pollution occurs when harmful substances—often chemicals or microorganisms—contaminate a stream, river, lake, ocean, aquifer, or other body of water, degrading water quality and rendering it toxic to humans or the environment. </p>
+
+        </div>
+      </div>
+    </div> -->
+
+       <!-- <div class="col s6">
+     <div class="card  blue lighten-1">
+       <div class="card-content white-text">
+         <span class="card-title"> Water Pollution</span>
+         <p>  <!-- Dropdown Trigger -->
+ <!-- <a class="dropdown-trigger btn" href="#" data-target="dropdown1">Solution</a> -->
+
+ <!-- Dropdown Structure -->
+ <!-- <ul id="dropdown1" class="dropdown-content">
+   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4077002/">Pathogens</a></li>
+    <li class="divider" tabindex="-1"></li>
+   
+   <li><a href=" https://www.sare.org/Learning-Center/Books/Building-Soils-for-Better-Crops-3rd-Edition/Text-Version/Organic-Matter-What-It-Is-and-Why-It-s-So-Important/Organic-Matter-and-Natural-Cycles">Organic Matter</a></li>
+   <li class="divider" tabindex="-1"></li>
+  
+
+   <li><a href="https://www.water-pollution.org.uk/chemical-water-pollution/">Chemical Pollution</a></li>
+    <li class="divider" tabindex="-1"></li>
+
+   <li><a href="https://www.biologicaldiversity.org/campaigns/ocean_plastics/">Plastic Pollution</a></li>
+    <li class="divider" tabindex="-1"></li>
+ </ul>
+
+         </p>
+       </div>
+     </div>
+   </div> -->
+
+  
+  <div class="col s6">  
+  <div id="wp" class="card teal lighten-2 hoverable">
+    <div class="card-image waves-effect waves-block waves-light">
+      
+    </div>
+    <div class="card-content">
+      <span class="card-title activator white-text text-darken-4 hoverable">Water Pollution<i class="material-icons right">more_vert</i></span>
+      <p> "Still today, 80% of global wastewater goes untreated, containing everything from human waste to highly toxic industrial discharges. The nature and amount of pollutants in freshwater determines the suitability of water for many human uses such as drinking, bathing, and agriculture."
+</p>
+    </div>
+    <div class="card-reveal teal lighten-2">
+      <span class="card-title grey-text text-darken-4">Solutions<i class="material-icons right">close</i></span>
+      <p></p>
+       <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4077002/">Pathogens</a></li>
+    <li class="divider" tabindex="-1"></li>
+   
+   <li><a href=" https://www.sare.org/Learning-Center/Books/Building-Soils-for-Better-Crops-3rd-Edition/Text-Version/Organic-Matter-What-It-Is-and-Why-It-s-So-Important/Organic-Matter-and-Natural-Cycles">Organic Matter</a></li>
+   <li class="divider" tabindex="-1"></li>
+  
+
+   <li><a href="https://www.water-pollution.org.uk/chemical-water-pollution/">Chemical Pollution</a></li>
+    <li class="divider" tabindex="-1"></li>
+
+   <li><a href="https://www.biologicaldiversity.org/campaigns/ocean_plastics/">Plastic Pollution</a></li>
+    <li class="divider" tabindex="-1"></li>
+    </div>
+  </div>
+  </div>
+
+
+   </div>
+
+<div id="Waterpollution" class="modal">
+    <div class="modal-content">
+      <h4>What is Water Pollution?</h4>
+      <p>Water pollution occurs when harmful substances—often chemicals or microorganisms—contaminate a stream, river, lake, ocean, aquifer, or other body of water, degrading water quality and rendering it toxic to humans or the environment. </p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Close</a>
+    </div>
+  </div>
+<div id="Causes" class="modal">
+    <div class="modal-content">
+      <h4>Modal Header</h4>
+      <p>A bunch of text</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+    </div>
+  </div>
+
+  <div id="Categoriesw" class="modal">
+    <div class="modal-content">
+      <h4>Modal Header</h4>
+      <p>A bunch of text</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+    </div>
+  </div>
+
+<div id="Types" class=" modal">
+    <div class="modal-content">
+      <h4>Modal Header</h4>
+      <p>A bunch of text</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+    </div>
+  </div>
+
+
+         <div class="parallax-container">
+      <div class="parallax"><img src="https://c.wallhere.com/photos/53/5b/waves_stars-83338.jpg!d"></div>
+    </div>
+
+
+        <div class="card teal lighten-2">
+        <div class="card-content white-text">
+          <span class="card-title">Check to see if your area is polluted.</span>
+          
+          <form>
+          <h5>Zipcode:
+            </h5>
+          <input type="text" name="Zipcode">        
+         
+                
+            <li> <a href="https://cdn.glitch.com/b7ca7aa1-ea66-4c35-954a-90a509bc21b8%2FUSA%201%20(RED).gif?v=1564725803381" class= "btn hoverable waves-light ">YES</a></li> 
+            
+             <li><a href="https://cdn.glitch.com/b7ca7aa1-ea66-4c35-954a-90a509bc21b8%2FUSA%202(BLUE).gif?v=1564725808599" class= "btn hoverable waves-light ">NO</a></li> 
+            
+            
+            
+            </a>
+            
+            
+          </form>
+          </div>
+          <footer class="page-footer #0097a7 cyan darken-2">   <div class="container">
+            
+      <div class="row">
+        <div class= "col s12">
+          
+          <h1> Contact</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col s4"> 
+      
+        <p> 1 Time Square, New York, NY 10036 </p>
+
+        </div> 
+
+        <div class= "col s4">
+          
+          <p class = "center">  WaterDetective@gmail.com </p>
+            
+        </div>
+
+        <div class= "col s4">  
+          
+          <p class= "center-align">
+          Call Us 
+          718-988-2342 </p>
+          
+          
+        </div>
+      </div>
+                
+                
+      <div class = "row">          
+        <div class="col s4">
+              <p class= "cente-alignr"> Help Change the system., center</p>
+        </div>
+            
+        <div class="col s4">
+          <p class = "center">
+          © 2019 Water Detectives </p>
+        </div>
+
+        <div class = "col s4">
+          <p class= "center-align"> <a class="grey-text text-lighten-4 center" href="#!">More Links</a> </p>
+        </div>
+     </div>
+     </div>
+    </footer>
+
+
+          
